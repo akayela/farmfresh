@@ -29,3 +29,6 @@ node_modules/
 
 # Virtual environment
 _env
+
+# Notes file
+ReadThisNotesFile!!!.txt
